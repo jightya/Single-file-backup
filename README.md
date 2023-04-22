@@ -10,7 +10,7 @@
  - To resume if paused, press CTRL+PAGEUP
 
 # Settings
-Please read the settings, abd set them accordingly.
+Please read the settings, and set them accordingly.
 
 # run from source
 
