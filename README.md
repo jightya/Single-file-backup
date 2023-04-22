@@ -22,7 +22,7 @@ Please read the settings, and set them accordingly.
 - Install `AutoHotkey Plus`, `Autohotkey Plus Plus`, `vscode-autohotkey-debug`, and `AutoHotKey Debug by Helsmy` extensions
 - In VSCode open the folder where you have the source code downloaded from Github
 - Select `Run and Debug` on the left sidebar
-- In the dropdown you should see 'Baal bot', 'Baal host', 'Mephisto Bot' etc
+- In the dropdown you should see main.
 - Choose which one you would like to run then click the green play button
 - Any time you press F5 it will re-run the last script
 
