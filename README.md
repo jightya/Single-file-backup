@@ -3,6 +3,9 @@
 
 # Single file backup
  An small program that checks if an file has been changed by checking the last modified time.
+ - to stop it, press CTRL+END
+ - To pause it, press CTRL+PAGEDOWN
+ - To resume if paused, press CTRL+PAGEUP
 
 # Settings
 Please read the settings, abd set them accordingly.

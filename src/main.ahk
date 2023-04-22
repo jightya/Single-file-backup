@@ -12,6 +12,7 @@ Log("Started " scriptName "...")
 
 ; the script itself
 while 1 {
+    MsgBox, This program will run continously. To stop it, press CTRL+END
     DetectAndBackupFile(settings["file"], settings["backupDir"])
 }
 
