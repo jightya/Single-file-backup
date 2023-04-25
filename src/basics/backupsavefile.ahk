@@ -6,7 +6,7 @@ DetectAndBackupFile(file, backupDir) {
             Log("lets backup that file.")
             last_mod_time := mod_time
             FileCopy, %file%, %backupDir%\example_backup.eu4
-            FormatTime, timestamp, %A_Now%, mm_HH___dd_MM_yyyy
+            FormatTime, timestamp, %A_Now%, ss_mm_HH___dd_MM_yyyy
             new_file_name := "Backup_File_" . timestamp . ".eu4"
             FileMove, %backupDir%\example_backup.eu4, %backupDir%\%new_file_name%
             ; the %A_Now% variable adds the current date and time to the filename

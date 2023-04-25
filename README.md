@@ -1,5 +1,5 @@
 # Version
-- Current version 1.0.1
+- Current version 1.0.2
 - You can get new versions here, report bugs etc here. 
 - also you can request features here.
 
