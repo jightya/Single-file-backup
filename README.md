@@ -2,9 +2,10 @@
 - Current version 1.0.2
 - You can get new versions here, report bugs etc here. 
 - also you can request features here.
+- intended for EU4 savescumming. No mather the input fileformat, it saves the backupped file as .eu4 , if its not the right fileformat, change it before using the file.
 
 # Single file backup
- An small program that checks if an file has been changed by checking the last modified time.
+ An small program that checks if an save file from EU4 has been changed by checking the last modified time.
  - to stop it, press CTRL+END
  - To pause it, press CTRL+PAGEDOWN
  - To resume if paused, press CTRL+PAGEUP
